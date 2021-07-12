@@ -44,6 +44,8 @@ copy code between the two using the [clone](https://docs.github.com/en/get-start
 command with `git`. A `clone` creates a copy of the repository with the current
 state of the repository including the complete history.
 
+I'm having trouble keeping up.
+
 ### Example: Clone the fork of the website with the tutorials
 
 1. Go to your user page on GitHub and select the 'website' repository.
